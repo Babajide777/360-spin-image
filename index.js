@@ -16,7 +16,7 @@ app.use(
 );
 
 app.get("/", (req, res) => {
-  res.send("Cloudinary Video Overlay Tutorial ");
+  res.send("Cloudinary 360 Spin Image Tutorial ");
 });
 
 app.post("/upload", pictureUpload);
