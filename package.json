@@ -1,7 +1,7 @@
 {
-  "name": "cloudinary-overlay",
+  "name": "360 Spin Image",
   "version": "1.0.0",
-  "description": "cloudinary video overlay",
+  "description": "Cloudinary 360 spin image",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,15 +14,15 @@
   "keywords": [
     "cloudinary",
     "media",
-    "video",
-    "overlay"
+    "image",
+    "360 spin image"
   ],
   "author": "Oyafemi Babajide",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Babajide777/cloudinary-overlay/issues"
+    "url": "https://github.com/Babajide777/360-spin-image/issues"
   },
-  "homepage": "https://github.com/Babajide777/cloudinary-overlay#readme",
+  "homepage": "https://github.com/Babajide777/360-spin-image#readme",
   "dependencies": {
     "cloudinary": "^1.32.0",
     "dotenv": "^16.0.3",
