@@ -1,6 +1,6 @@
-# CLOUDINARY VIDEO OVERLAY TUTORIAL
+# CLOUDINARY 360 SPIN IMAGE TUTORIAL
 
-This tutorial teaches you how to create video overlays using Cloudinary.
+This tutorial teaches you how to create 360 spin images using Cloudinary.
 
 ## Authors
 
@@ -8,10 +8,10 @@ This tutorial teaches you how to create video overlays using Cloudinary.
 
 ## API Reference
 
-#### Post details to upload a video and a picture.
+#### Post details to upload a collection pictures and add tag and folder names.
 
 ```http
-  POST /api/contact
+  POST /upload
 ```
 
 ## Documentation
@@ -19,6 +19,7 @@ This tutorial teaches you how to create video overlays using Cloudinary.
 - [ExpressJs](https://expressjs.com/)
 - [Cloudinary](https://cloudinary.com/)
 - [express-formidable-v2](https://www.npmjs.com/package/express-formidable-v2)
+- [Product Gallery](https://cloudinary.com/documentation/product_gallery)
 
 ## Contributing
 
@@ -64,13 +65,13 @@ If you have any feedback, please reach out to me at j.oyafemi@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/Babajide777/cloudinary-overlay.git
+  git clone https://github.com/Babajide777/360-spin-image.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd cloudinary-overlay
+  cd 360-spin-image
 ```
 
 Install dependencies
@@ -93,6 +94,6 @@ Start the server
 
 ## Tech Stack
 
-**Client:** Postman
+**Client:** Postman, Product Gallery
 
 **Server:** ExpressJS, NodeJs
